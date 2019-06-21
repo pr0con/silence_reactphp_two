@@ -1,0 +1,24 @@
+React PHP Set of Components
+==============================
+
+Core:
+	-EventLoop :: Most Low Level && Master Component :: composer require react/event-loop
+	-Stream
+	-Promise
+
+Network:
+	-Socket
+	-Datagram
+	
+Protocol:
+	-HTTP
+	-HttpClient
+	-DNS
+	
+Utilities:
+	-Cache
+	-PromiseTimer
+	-ChildProcess
+	-PromiseStream
+	
+	

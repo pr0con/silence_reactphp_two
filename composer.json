@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/event-loop": "^1.1",
+        "react/stream": "^1.1.0",
+        "react/promise": "^2.7.1",
+        "react/cache": "^0.5.0"
+    }
+}
